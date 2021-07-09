@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Object detection testing.ipynb
 
 ## Mounting Google Drive and GPU

@@ -54,4 +54,5 @@ Case 2: With Violations
 From our Literature Survey, the trials 
 included common state-of-the-art object detection models such as Faster RCNN, SSD, and 
 we calculated for YOLO v3. YOLO v3 demonstrated efficient performance with balanced 
-FPS = 23. Since this method is highly sensitive to the camera's spatial position, it can be fine-tuned to better align with the corresponding field of view.
+FPS = 23. Yolo model performed better providing accurate results compared to the methods above. To implement in real time, when our model was applied in college campus and on live camera it provided satisfactory results.
+
